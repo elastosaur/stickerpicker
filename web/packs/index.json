@@ -1,6 +1,7 @@
 {
   "packs": [
-    "Zorrdragon.json"
+    "Zorrdragon.json",
+    "Prannon.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
